@@ -1,0 +1,24 @@
+*{
+    text-align: center;
+};
+
+
+
+ol, ul{
+    list-style-position: inside;
+}
+
+div{
+    background-color: #cecece;
+}
+
+h1{ 
+    width: 100%; 
+}
+
+p{
+    background-color: rgb(170, 245, 71);
+    margin-top: 10px;
+    margin-bottom: 10px;
+};
+
